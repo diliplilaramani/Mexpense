@@ -1,0 +1,829 @@
+﻿html, body, p, h1, h2, h3, h4, h5, h6, blockquote, ol, ul, li, dl, dt, dd, form, fieldset, a, button, div
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+html, body
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    margin: 0px;
+    background-color: #f5f7fb;
+    background-repeat: repeat-x;
+    padding: 0px;
+}
+.logindiv
+{
+    width: 899px;
+    height: 454px;
+    background-image: url(images/login.png);
+    background-repeat: no-repeat;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+/*-------------------------Class used for Parentpart on  page CSS start------------------------*/
+.ClsTable_Parent
+{
+    background-color: #F8F8FF;
+}
+/*-------------------------Class used for Parentpart  page CSS end------------------------*/
+.breadcrumb
+{
+    height: 20px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    text-align: right;
+    float: left;
+    background-color: #ffffff;
+    border: 1px solid #bfbdb9;
+    width: 990px;
+    position: relative;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+.ClsTitleHead
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding-left: 10px;
+}
+
+
+.TxtTitle
+{
+    float: Left;
+    width: 140px;
+    height: 80px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    color: #000000;
+    line-height: 20px;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.ClsTableHead
+{
+    background-image: url(images/MainItemBackground2.gif);
+    background-repeat: repeat-x;
+    background-color: #ADC9F7;
+    white-space: nowrap;
+    clear: both;
+    height: 28px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.PlaceHolder
+{
+    height: 100%;
+    width: 99%;
+    clear: both;
+    vertical-align: top;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.LoginPlaceHolder
+{
+    padding: 15px;
+    clear: both;
+    vertical-align: top;
+    text-align: center;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+td, img
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+fieldset
+{
+    margin-bottom: 1em;
+    padding: 1em;
+}
+A
+{
+    text-decoration: underline;
+    color: #0099FF;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+A:hover
+{
+    text-decoration: none;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.ClsButtonMid
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+    text-align: center;
+    cursor: Hand;
+    color: #ffffff !important;
+    height: 24px;
+    background-image: url(/App_Themes/images/btnBg.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    line-height: 20px;
+    border: transparent;
+    width: 60px;
+}
+.ClsButtonMid:hover
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+    color: #ffffff !important;
+    text-align: center;
+    cursor: Hand;
+    height: 24px;
+    background-image: url(/App_Themes/images/btnBg_hover.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    line-height: 20px;
+    border: transparent;
+}
+.ClsButtonMid:active
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+    color: #ffffff !important;
+    text-align: center;
+    cursor: Hand;
+    height: 24px;
+    background-image: url(/App_Themes/images/btnBg_hover.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    line-height: 20px;
+    border: transparent;
+}
+.ClsButtonMid:visited
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+    color: #ffffff !important;
+    text-align: center;
+    cursor: Hand;
+    height: 24px;
+    background-image: url(/App_Themes/images/btnBg_hover.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    line-height: 20px;
+    border: transparent;
+}
+.ClsLabel
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    line-height: 18px;
+    color: Black;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.ClsLabelMdt
+{
+    color: red;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+.ClsLabelHead
+{
+    font-size: 13px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    line-height: 25px;
+    font-weight: bold;
+}
+.ClsTextBoxMid
+{
+    border: 1px solid #ababab !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    width: 175px !important;
+    height: 18px !important;
+    text-align: left !important;
+    background-color: #FFFFFF !important;
+    text-indent: 3px;
+    margin-left: 0px;
+}
+
+.ClsTextBoxlong
+{
+    border: 1px solid #ababab !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    width: 400px !important;
+    height: 18px !important;
+    text-align: left !important;
+    background-color: #FFFFFF !important;
+    text-indent: 3px;
+}
+.ClsTextBoxMid:Disabled{ background-color:#E6E6E6!Important; color:#808080 !Important;}
+.ClsTextBoxMidReadOnly { border:1px solid #000000 !Important; color:#808080 !Important; }
+.ClsButtonLink
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    height: 20px !important;
+    text-align: left !important;
+    padding: 1px 8px;
+    line-height: 20px;
+    color:#000000;
+    display:block;
+    text-decoration:none;
+}
+.ClsButtonLink:hover
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    height: 20px !important;
+    text-align: left !important;
+    background-color: #36648B !important;
+    color: #ffffff !important;
+    padding: 1px 8px;
+    background-image: url(/App_Themes/images/btnBg.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    line-height: 20px;
+}
+
+.autoComplete
+{
+    border: 1px solid #cccccc !important;
+    text-indent: 5px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.autoComplete li
+{
+    background-color: #f5f7fb !important;
+    list-style-type: none !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.autoComplete li:hover
+{
+    background-color: #cccccc !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+/* ------------------------------------ */
+.ClsDivBorder
+{
+    border: solid 1px #777777;
+    text-align: center;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+
+.ClsLinkText
+{
+    text-decoration: none;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    color: #1B3D6B;
+}
+.ClsLinkText:hover
+{
+    text-decoration: underline;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+.ClsGrid
+{
+    text-align: center;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+}
+.ClsGrid td table td{border:none !Important; text-align:center !Important;}
+.ClsGrid tr:nth-child(even)
+{
+    background-color: #F0F8FF !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+}
+.ClsGrid th
+{
+    background-color: #5070A8 !important;
+    color: #ffffff !important;
+    border: 1px solid #000000 !important;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+}
+.ClsGrid td
+{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 11px;
+}
+.ClsGridPager td table td
+{
+    width: 10px !important;
+    background-color: #5070A8 !important;
+    color: #ffffff !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 9px;
+}
+.ClsGridPager td table tr{height:14px!Important;}
+.ClsGridPager td table td span
+{
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 0px 5px !important;
+}
+.ClsGridPager td table td a
+{
+    text-decoration: none;
+    color: #888888 !important;
+}
+
+.ClsGridPager td table td a:hover
+{
+    color: #ffffff !important;
+    text-decoration: underline;
+}
+.ClsGridPager td table
+{
+    width: auto !important;
+}
+
+/* --------------ListBox-------------------- */
+.ClsListBoxMid
+{
+    border: 1px solid #1B3D6B;
+    text-align: left;
+    width: 179px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+/* --------------ComboBox-------------------- */
+
+.ClsComboBox
+{
+    border: 1px solid #C3D9F9;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+/* --------------TextBox-------------------- */
+.ClsTextArea
+{
+    border: 1px solid #ababab !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    width: 175px !important;
+    height: 70px;
+    background-color: #FFFFFF;
+}
+/* ------------------------------------ */
+.bracket
+{
+    border: 2px groove threedface;
+    display: block;
+    margin-left: 13px;
+    margin-right: 5px;
+    padding: 3px 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.header
+{
+    height: 70px;
+    width: 100%;
+    float: left;
+    background-color: #74a4ce;
+    border-bottom: 1px solid #cccccc;
+    background-image: url(/App_Themes/images/headerBg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.logo
+{
+    float: left;
+    padding: 10px 10px 10px 30px;
+    width: 200px;
+}
+.userLogin
+{
+    float: right;
+    color: White !important;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    padding: 0 20px;
+    background-color: #6CA6CD;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.userL
+{
+    float: right;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.accordionHeader
+{
+    cursor: pointer;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 5px 6px 5px 24px;
+    background: #b0d0f8 url(/App_Themes/images/plus_bulletsubmenuIN.gif) no-repeat 100%;
+    background-position: left; /*color:#000;*/
+    color:#204880;
+    border-bottom: 1px solid #e2e1b3;
+}
+
+.accordionHeader:hover
+{
+    color: #5070A8;
+    text-decoration: none;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.accordionHeaderSelected:hover
+{
+    background-color: #4391c7;
+    color: #fff;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.accordionHeaderSelected
+{
+    /*background-color:#5274AB;*/
+    background: url(/App_Themes/images/minus_bulletsubmenuIN.gif) no-repeat 100%;
+    background-color: #5070A8;
+    border-color: #bfbdb9;
+    color: #fff;
+    background-position: left;
+    cursor: pointer;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 5px 6px 5px 24px;
+    border-bottom: 1px solid #bfbdb9;
+}
+
+.accordionContent
+{
+    border-bottom: 1px solid #bfbdb9;
+    color: #FFFFFF;
+    background-color: White;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.accordionContent a
+{    
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    padding:0.3em;
+    display:block;
+    color:#5070a8;
+    text-decoration:none;
+}
+.accordionContent a:hover
+{
+    background-color:#b0d0f8;
+    text-decoration:none;
+    }
+  
+/* accordian left menu css start here*/
+#AccordionMenu a:link
+{
+    border-bottom-width: 1px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-decoration: none;
+    padding-left: 28px; /*background: url(/App_Themes/images/AddNew.jpg) no-repeat 100% left;*/
+    background: url(/App_Themes/images/AddNew.jpg) no-repeat left;
+    background-repeat: no-repeat;
+    background-position: 8px;
+}
+#AccordionMenu a:hover
+{
+    border-bottom-width: 1px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-decoration: none;
+    padding-left: 28px;
+    background: url(/App_Themes/images/AddNew.png) no-repeat left;
+    background-color: #7090c8;
+    background-position: 8px;
+    color:#ffffff;
+}
+
+#AccordionMenu a:active
+{
+    color: #034af3; /*background: url(/App_Themes/images/AddNew.jpg) no-repeat 100%;*/
+    padding-left: 24px; /* background: url(/App_Themes/images/AddNew.jpg) no-repeat left;*/
+    background: url(/App_Themes/images/AddNew.jpg) no-repeat left;
+    background-color: #c3d7ea;
+    background-position: 8px;
+}
+
+#AccordionMenu a
+{
+    color: #034af3; /*background: url(/App_Themes/images/AddNew.jpg) no-repeat 100%;*/
+    background-image: url(/eportnet/App_Themes/images/AddNew.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 24px;
+}
+
+.ajax__calendar_header
+{
+    background-color: #336799 !important;
+    color: #ffffff !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.column-one
+{
+    float: left;
+    width: 196px;
+    margin: 0px 5px 0px 0px;
+    background-color: #4391c7;
+    border: 1px solid #bfbdb9;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.column-two
+{
+    min-height: 23.5em;
+    padding: 8px 8px 8px 8px;
+    *padding-top:4px;
+    *padding-bottom:4px;
+    *padding-left:4px;
+    *padding-right:4px;
+    *margin: 0px ;
+    *border-top:4px;
+    *border-top-color:Red;
+    * vertical-align:top;
+    margin: 0px 0px 0px 207px;
+    border: 1px solid #bfbdb9;
+    background-color: #ffffff;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.content
+{
+    float: left;
+    width: 100%;
+    position: relative;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.clear-both
+{
+    clear: both;
+    height: 0px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+/*table td
+{
+    border: 1px solid red;
+}*/
+/* css for master page new structure*/
+
+.headerLeft
+{
+    float: left;
+    width: 49%;
+    position: relative;
+    border: 1px solid green;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.ClsTable
+{
+    width: 100%;
+    color: #000000;
+    text-align: left;
+    padding: 4px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.ClsTable td
+{
+    text-align: left;
+    padding: 2px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.ClsTable td:nth-child(odd)
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+/*css from master page  start*/
+a
+{
+    text-decoration: underline;
+    /*color: white;*/
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+      
+}
+
+.todaydate
+{
+    height: 22px;
+    background-image: url(~/live/newimages/greenbg.jpg);
+    background-repeat: repeat-x;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-align: center;
+}
+
+#HeaderMenu:hover
+{
+    background-color: White;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+#HeaderMenu
+{
+    margin-right: 10px;
+    padding-right: 20px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+/*table
+{
+    width: 100%;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}*/
+
+table th
+{
+    color: #000000;
+    border-bottom: 1px solid #999999;
+    text-align: left;
+    line-height: 22px;
+    padding-left: 5px;
+    padding: 4px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+
+/*table td
+{
+    text-align: left;
+    padding: 4px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}*/
+
+/*css from master page  ends*/
+.tab
+{
+    float: left;
+    padding: 5px 8px 5px 15px;
+    margin-left: 3px;
+    background-color: #cccccc;
+    border: 1px solid #777777;
+    color: #000000;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-decoration:none;
+}
+.tab:hover
+{
+    float: left;
+    padding: 5px 8px 5px 15px;
+    margin-left: 3px;
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    border-bottom: 1px solid #ffffff;
+    color: #000000 !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.tabactive
+{
+    float: left;
+    padding: 5px 8px 5px 15px;
+    margin-left: 3px;
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    border-bottom: 1px solid #ffffff;
+    font-weight: bold;
+    color: #000000 !important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    text-decoration:none;
+}
+.website
+{
+    width: 1000px;
+    margin: auto;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.orgChart table
+{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.orgChart table td
+{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.ClsMandatoryField
+{
+    color: Red;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.lblErrMsg
+{
+    color: Red !Important;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: left;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+.orgchartTable
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    padding: 5px 5px 5px 5px;
+    border: thin solid orange;
+    background-color: lightgrey;
+}
+.orgchartCellPadding
+{
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+    padding: 0px 0px 0px 0px;
+}
+.lblHeader
+{
+    color: #000000;
+    text-align: left;
+    line-height: 22px;
+    padding-left: 5px;
+    padding: 4px;
+    font-family: Arial, Verdana, Helvetica, sans-serif !important;
+    font-size: 12px;
+}
+.usrImg{background-image:url(/App_Themes/images/user.png); background-repeat:no-repeat; 
+
+background-position:left; height:25px; padding-left:25px;}
+.logoff{background-image:url(/App_Themes/images/logout.png); background-repeat:no-repeat; 
+
+background-position:left; height:25px; padding-left:15px;}
+/*call tree page css started*/
+.callTreeDiv{Width:100%; overflow:auto;}
+.labelBreak{ word-break:break-all !Important ;  display:block; width:150px;   word-wrap:break-word !Important ;}
+.callTreeDiv a{text-decoration:underline; color:#4D4D4D; font-weight:bold;}
+table td {vertical-align:top;}

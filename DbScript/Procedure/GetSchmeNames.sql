@@ -1,0 +1,9 @@
+IF EXISTS(SELECT 1 FROM INFORMATION_SCHEMA.ROUTINES WHERE ROUTINE_NAME = 'GetSchmeNames')
+DROP PROCEDURE GetSchmeNames
+GO
+
+CREATE PROCEDURE GetSchmeNames   
+as  
+Begin  
+SELECT Schemeid,schemeName FROM tblschemesetup  
+END  

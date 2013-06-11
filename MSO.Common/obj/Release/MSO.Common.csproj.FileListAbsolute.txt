@@ -1,0 +1,14 @@
+D:\MSO_LastBack\MSO\MSO.Common\bin\Release\MSO.Common.dll
+D:\MSO_LastBack\MSO\MSO.Common\bin\Release\MSO.Common.pdb
+D:\MSO_LastBack\MSO\MSO.Common\bin\Release\MSO.DAO.dll
+D:\MSO_LastBack\MSO\MSO.Common\bin\Release\MSO.DAO.pdb
+D:\MSO_LastBack\MSO\MSO.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MSO_LastBack\MSO\MSO.Common\obj\Release\MSO.Common.dll
+D:\MSO_LastBack\MSO\MSO.Common\obj\Release\MSO.Common.pdb
+D:\MSO\MSO\MSO.Common\bin\Release\MSO.Common.dll
+D:\MSO\MSO\MSO.Common\bin\Release\MSO.Common.pdb
+D:\MSO\MSO\MSO.Common\bin\Release\MSO.DAO.dll
+D:\MSO\MSO\MSO.Common\bin\Release\MSO.DAO.pdb
+D:\MSO\MSO\MSO.Common\obj\Release\ResolveAssemblyReference.cache
+D:\MSO\MSO\MSO.Common\obj\Release\MSO.Common.dll
+D:\MSO\MSO\MSO.Common\obj\Release\MSO.Common.pdb

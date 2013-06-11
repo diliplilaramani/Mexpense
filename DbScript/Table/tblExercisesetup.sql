@@ -1,0 +1,37 @@
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID('tblExercisesetup')  AND type ='U')
+DROP TABLE tblExercisesetup
+GO
+CREATE TABLE [dbo].[tblExercisesetup](
+	[CompanyId] [int] PRIMARY KEY,
+	[ExerciseHeader] [varchar](200) NULL ,
+	[ExerciseFooter] [varchar](200) NULL ,
+	[FIFO] [char](1) ,
+	[Allowexrcisemultiplevest] [char](1),
+	[Restricttocompletevest] [char](1),
+	[ExerciseDenomination] [char](1) ,
+	[AllowExercisesimulation] [char](1) ,
+	[SendCancellationalert] [char](1) ,
+	[IsAutomatedExercise] [char](1) ,
+	[CnciderTraveldtls] [char](1) ,
+	[IstrustIntegrated] [char](1) ,
+	[IsPaymentGatewayIntegrated] [char](1) ,
+	[IsFundingIntegrated] [char](1) ,
+	[IsCashlessIntegrated] [char](1) ,
+	[IsSendvestAlertBefore] [char](1) ,
+	[SendvestAlertBeforeDays] [int] ,
+	[SendvestAlertBeforeRmainderDays] [int] ,
+	[IsSendAlertAfter] [char](1) ,
+	[SendvestAlertAfterDays] [int] ,
+	[SendvestAlertAfterRmainderDays] [int] ,
+	[IsSendLapseAlertBefore] [char](1) ,
+	[SendLapseAlertBeforeDays] [int] ,
+	[SendLapseAlertBeforeRmainderDays] [int] ,
+	[SendExerciseApprovalstatus] [char](1) ,
+	[IsNSEorBSE] [char](1) ,
+	[SamedayoPrevsDay] [char](1) ,
+	[SharepricetobeConcidered] [char](1) ,
+	[Createdby] INT FOREIGN KEY REFERENCES tblusers(uid) ,
+	[Createddate] [date] ,
+	[Updateby] INT FOREIGN KEY REFERENCES tblusers(uid),
+	[UpdateDtate] [date] 
+) 

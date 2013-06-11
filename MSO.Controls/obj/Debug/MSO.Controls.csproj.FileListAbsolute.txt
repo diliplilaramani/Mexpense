@@ -1,0 +1,63 @@
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+D:\RandD\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+D:\RandD\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+D:\RandD\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+D:\RandD\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+D:\RandD\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\RandD\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\RandD\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+D:\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+D:\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+D:\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+D:\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.DAO.dll
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+D:\MSO_LastBack\MSO\MSO.Controls\bin\Debug\MSO.DAO.pdb
+D:\MSO_LastBack\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO_LastBack\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\MSO_LastBack\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.Controls.dll
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.Controls.pdb
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.Common.dll
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.DAO.dll
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.Common.pdb
+D:\MSO\MSO\MSO.Controls\bin\Debug\MSO.DAO.pdb
+D:\MSO\MSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\MSO\MSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\Mso\MSO.Controls\bin\Debug\MSO.DAO.dll
+D:\Mso\MSO.Controls\bin\Debug\MSO.DAO.pdb
+D:\KMSO\MSO.Web\bin\MSO.Controls.dll
+D:\KMSO\MSO.Web\bin\MSO.Controls.pdb
+D:\KMSO\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\KMSO\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\KMSO\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\wbmso\MSO.Web\bin\MSO.Controls.dll
+D:\wbmso\MSO.Web\bin\MSO.Controls.pdb
+D:\wbmso\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\wbmso\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\wbmso\MSO.Controls\obj\Debug\MSO.Controls.pdb
+D:\MSO\MSO\wbmso\wbmso\MSO.Web\bin\MSO.Controls.dll
+D:\MSO\MSO\wbmso\wbmso\MSO.Web\bin\MSO.Controls.pdb
+D:\MSO\MSO\wbmso\wbmso\MSO.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO\wbmso\wbmso\MSO.Controls\obj\Debug\MSO.Controls.dll
+D:\MSO\MSO\wbmso\wbmso\MSO.Controls\obj\Debug\MSO.Controls.pdb

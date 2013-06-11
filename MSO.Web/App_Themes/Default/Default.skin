@@ -1,0 +1,76 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />--%>
+
+
+<%@ Register Assembly = "MSO.Controls" Namespace = "MSO.Controls" TagPrefix = "mycc1" %>
+
+<mycc1:MSOTextbox runat="server"  CssClass="ClsTextBoxMid" /> 
+<mycc1:MSOLinkButton runat="server"  CssClass="ClsButtonLink" /> 
+<mycc1:MSOButton runat="server"  CssClass="ClsButtonMid" /> 
+
+<asp:Image SkinID="logoImage" runat="server" ImageUrl="images/logo.gif" />
+<asp:TextBox runat="server" CssClass="ClsTextBoxMid" />
+<asp:Button  runat="server" CssClass="ClsButtonMid"  />
+<asp:LinkButton runat="server" ForeColor="Black" CssClass="ClsButtonLink"  />
+    
+   
+<%-- Default DropDownList appearance --%>
+    <asp:DropDownList CssClass="ClsComboBox" runat="server"/>
+<%-- Default button appearance --%>
+    
+<%-- Default login appearance --%>
+    <asp:Login runat="server" BorderPadding="4" BorderStyle="Solid" BorderWidth="1px" Font-Names="Arial" Font-Size="10pt" ForeColor="#333333" width="100%">
+        <TitleTextStyle BackColor="Silver" Font-Bold="True" Font-Size="0.9em" ForeColor="black" height="20px" />
+        <InstructionTextStyle Font-Italic="True" ForeColor="Black" />
+        <TextBoxStyle Font-Size="0.8em" />
+        <LoginButtonStyle CssClass="ClsButton"  Font-Names="Verdana" Font-Size="8pt" ForeColor="#1B3D6B" width="100px" />
+    </asp:Login>
+<%-- Default GridView appearance --%>
+    <asp:GridView  CssClass="ClsGrid" style=" text-align:left; " runat="server" RowStyle-BorderWidth="1px" RowStyle-BorderColor="#000000" RowStyle-BorderStyle="Solid" HeaderStyle-BorderWidth="1px" HeaderStyle-BorderColor="#000000" HeaderStyle-BorderStyle="Solid" HeaderStyle-ForeColor="White" CellPadding="2" ForeColor="#333333" >
+        <FooterStyle BackColor="#1C5E55" Font-Bold="True"   ForeColor="#333333" />
+        <RowStyle BackColor="#ffffff" height="20px"  HorizontalAlign="Left" />
+        <EditRowStyle BackColor="#3683b8"  HorizontalAlign="Left" />
+        <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True"   ForeColor="#333333" />
+        <PagerStyle  HorizontalAlign="Left" CssClass="ClsGridPager" Width="20px"  height="20px" />
+        <HeaderStyle CssClass="ClsGrid" BackColor="#3683b8" HorizontalAlign="center"    Font-Bold="True"    height="20px" />
+        <AlternatingRowStyle BackColor="#ffffff"   />
+        </asp:GridView>
+<%-- Default Treeview control --%>
+    <asp:TreeView runat="server" ImageSet="Arrows" ExpandDepth="0">
+	    <ParentNodeStyle Font-Bold="False" />										
+	    <SelectedNodeStyle Font-Underline="True" HorizontalPadding="0px" VerticalPadding="0px"
+		    Font-Bold="true" />
+	    <NodeStyle Font-Names="Arial" Font-Size="9pt" ForeColor="#336633" HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+	    <HoverNodeStyle />	
+    </asp:TreeView>
+<%-- Default Table control --%>
+    <asp:Table runat="server" Cellpadding="2"  CssClass="ClsTable" cellspacing="5" >
+        
+    </asp:Table>
+<%-- Default Listbox control --%>
+    <asp:ListBox runat="server" CssClass="ClsListBoxMid"></asp:ListBox>
+<%-- Default Label control --%>
+    <asp:Label runat="server" CssClass="ClsLabel"></asp:Label>
+<%-- Default CheckBox control --%>
+    <asp:CheckBox  Font-Names="Arial" Font-Size="10pt" runat="server" />
+<%-- Default RadioButton control --%>
+    <asp:RadioButton Font-Names="Arial" Font-Size="10pt" runat="server"/>
+<%-- Default CheckBoxList control --%>
+    <asp:CheckBoxList Font-Names="Arial" Font-Size="10pt" runat="server"></asp:CheckBoxList>
+<%-- Default RadioButtonList control --%>
+<asp:RadioButtonList Font-Names="Arial" Font-Size="10pt" runat="server"></asp:RadioButtonList>
+<%-- Default HyperLink control --%>
+<asp:HyperLink runat="server" Font-Names="Arial" Font-Size="10pt" CssClass="A"/>
+

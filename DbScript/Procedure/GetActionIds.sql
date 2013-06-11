@@ -1,0 +1,24 @@
+IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES 
+WHERE ROUTINE_NAME = 'GetActionIds')
+	DROP PROCEDURE GetActionIds
+GO
+--declare @intcount int , 
+--exec GetActionIds
+
+CREATE PROCEDURE [dbo].[GetActionIds]
+AS
+BEGIN 
+	
+	DECLARE @AddActionId int ;
+	DECLARE @EditActionId int ;
+	DECLARE @DelActionId int ;
+	DECLARE @ViwActionId int ;
+	
+	SELECT @AddActionId  =  ACTION_ID     FROM TBLACTIONS WHERE ACTION_CODE ='ADD'
+	SELECT @EditActionId  =  ACTION_ID     FROM TBLACTIONS WHERE ACTION_CODE ='EDIT'
+	SELECT @DelActionId  =  ACTION_ID     FROM TBLACTIONS WHERE ACTION_CODE ='DELETE'
+	SELECT @ViwActionId  =  ACTION_ID     FROM TBLACTIONS WHERE ACTION_CODE ='VIEW' 
+	
+	SELECT  @AddActionId AS [ADD],  @EditActionId AS EDIT, @DelActionId AS [DELETE] , @ViwActionId  AS [VIEW] 	 	
+END
+

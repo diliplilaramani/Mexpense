@@ -1,0 +1,79 @@
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\Dilip_Back_Up\Dilip\Material\Mywork\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\RandD\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+D:\RandD\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+D:\RandD\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\RandD\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\RandD\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+D:\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+D:\MSO\MSO.BO\bin\Debug\MSO.DAO.dll
+D:\MSO\MSO.BO\bin\Debug\MSO.DAO.pdb
+D:\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\MSO\MSO.BO\bin\Debug\MSO.DTO.dll
+D:\MSO\MSO.BO\bin\Debug\MSO.Common.dll
+D:\MSO\MSO.BO\bin\Debug\MSO.DTO.pdb
+D:\MSO\MSO.BO\bin\Debug\MSO.Common.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.Common.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.DAO.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.DTO.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.Common.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.DAO.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\bin\Debug\MSO.DTO.pdb
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+E:\Amey\MSO\MSO 35 June 12\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.Common.dll
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.DAO.dll
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.DTO.dll
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.DTO.pdb
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.Common.pdb
+D:\MSO_LastBack\MSO\MSO.BO\bin\Debug\MSO.DAO.pdb
+D:\MSO_LastBack\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO_LastBack\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\MSO_LastBack\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.BO.dll
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.BO.pdb
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.Common.dll
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.DAO.dll
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.DTO.dll
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.DTO.pdb
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.Common.pdb
+D:\MSO\MSO\MSO.BO\bin\Debug\MSO.DAO.pdb
+D:\MSO\MSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\MSO\MSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\KMSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\KMSO\MSO.Web\bin\MSO.BO.dll
+D:\KMSO\MSO.Web\bin\MSO.BO.pdb
+D:\KMSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\KMSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\mywbmso\KMSO\MSO.Web\bin\MSO.BO.dll
+D:\mywbmso\KMSO\MSO.Web\bin\MSO.BO.pdb
+D:\mywbmso\KMSO\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\mywbmso\KMSO\MSO.BO\obj\Debug\MSO.BO.dll
+D:\mywbmso\KMSO\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\wbmso\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\wbmso\MSO.Web\bin\MSO.BO.dll
+D:\wbmso\MSO.Web\bin\MSO.BO.pdb
+D:\wbmso\MSO.BO\obj\Debug\MSO.BO.dll
+D:\wbmso\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\MSO\MSO\wbmso\wbmso\MSO.Web\bin\MSO.BO.dll
+D:\MSO\MSO\wbmso\wbmso\MSO.Web\bin\MSO.BO.pdb
+D:\MSO\MSO\wbmso\wbmso\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\MSO\MSO\wbmso\wbmso\MSO.BO\obj\Debug\MSO.BO.dll
+D:\MSO\MSO\wbmso\wbmso\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\Mexpense\MSO.BO\obj\Debug\ResolveAssemblyReference.cache
+D:\Mexpense\MSO.BO\obj\Debug\MSO.BO.pdb
+D:\Mexpense\MSO.Web\bin\MSO.BO.dll
+D:\Mexpense\MSO.Web\bin\MSO.BO.pdb
+D:\Mexpense\MSO.BO\obj\Debug\MSO.BO.dll

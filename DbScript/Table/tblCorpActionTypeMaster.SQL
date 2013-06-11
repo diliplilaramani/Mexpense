@@ -1,0 +1,9 @@
+IF NOT EXISTS(SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'tblCorpActionTypeMaster')
+CREATE TABLE tblCorpActionTypeMaster
+(
+ AcionTypeId INT  PRIMARY KEY
+,ActionType  VARCHAR(20)
+,Add_Userid INT FOREIGN KEY REFERENCES tblusers(uid)
+,Add_TimeStamp DATETIME
+)
+

@@ -1,0 +1,587 @@
+﻿
+
+h4
+{
+	color:Blue;
+}
+
+#page_div
+{
+    width: 980px;
+   
+}
+
+#header
+{
+    width:980px;
+    margin-bottom: 25px;
+    position:relative;
+
+}
+
+
+
+#liOpenExerciseWindow
+{
+	border: 1px solid Blue;
+}
+
+
+
+/*li {
+
+display:inline;
+position:relative;
+margin-left : auto;
+margin-right :auto;
+margin-top : auto;
+float:left;
+} */
+
+li {
+
+display:inline;
+position:relative;
+padding : 5px;
+margin: 5px;
+float:left;
+
+
+}
+
+
+
+.lbl
+{
+	display:inline-block;
+	width:220px;
+	padding ,1em,1em,0.5em;
+	color:#555555;
+	float:left;
+	
+}
+
+h4
+{
+	color:Blue;
+}
+
+#page_div
+{
+    width: 980px;
+   
+}
+
+#header
+{
+    width:980px;
+    margin-bottom: 25px;
+    position:relative;
+
+}
+
+#content
+{
+    clear oth;
+    width: 980px;
+   
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+    display lock;
+}
+
+#rightcontent
+{
+    width: 200px;
+    float:right;
+    display lock;
+    
+}
+
+#centercontent
+{
+   
+    font-size: 92.31%;
+    padding-left ;
+    padding-right ;
+    padding-top ;
+    padding-bottom ;
+    text-align: left;
+    width:780px;
+    float:left;
+
+       
+}
+
+#centercontent: after
+{
+    clear:both;
+    content: ".";
+    display: block;
+    /*height:both;*/
+    content: ".";
+    display: block;
+    height:0;
+    visibility:hidden;
+}
+
+
+#footer
+{
+    clear:both;
+    width:100%;
+    display:block;
+}
+
+#div_body
+{
+    position: relative;
+    width: 980px;
+    height:0;
+   
+}
+
+ ul
+{
+    display:inline;
+    position:relative;
+    
+    float:left;
+    margin-top : 0em;
+    margin-bottom : -0.5em;
+    margin-left : 0em;
+    border-style :none;
+    width : 725px;
+    height: auto;
+    z-index:100;
+}
+
+div li {
+
+display:inline;
+position:relative;
+padding : 5px;
+margin: 5px;
+float:left;
+z-index:100;
+
+}
+
+
+
+body
+{
+    color: #666666;
+}
+/*ul.megamenu div
+{
+    display:none;
+}*/
+
+ul.megamenu
+{
+
+    background-image: url("/App_Themes/Images/nav_bar.png");
+    background-repeat: no-repeat;
+    height: 4.75em;
+    width:960px;
+    font-family: Arial,Helvetica,Sans-Serif;
+    
+}
+
+
+
+/*ul.megamenu li.menu div
+{
+    width: 18em;
+    position: absolute;
+    top: 1.6em;
+    left: 0em;
+}
+
+li.menu a
+{
+   color:white; 
+   
+} */
+
+.megamenu .menu
+{
+    background-image: url("/App_Themes/Images/nav_bar_split.gif");
+    background-position: left center;
+    background-repeat : no-repeat;  
+   
+}
+
+ #centercontent li
+{
+   
+    padding-bottom: 10px;
+    top: 14px;
+    left: 22px;
+    width: 632px;
+     
+}
+
+
+#centercontent li
+{
+  
+    padding-bottom: 5px;
+    top: 0px;
+    left: 0px;
+    width: 93%;
+}
+
+
+
+#centercontent ul
+{
+    list-style:none;
+    height: 72%;
+    top: 0px;
+    left: 0px;
+}
+   
+#companylist ul
+{
+	list-style:none;
+	
+}
+
+#footerlist
+{
+	display:inline;
+	list-style:none;
+	
+}
+
+
+
+
+ul#companylist 
+{
+	list-style:none;
+	display:block;
+	
+	
+}
+
+ul#companylist li
+{
+	margin:0;
+	padding:0;
+	vertical-align:baseline;
+	
+     
+}
+
+.chkBox
+{
+	width:100px;
+	margin:0;
+	padding:0;
+}
+
+.drpDownList
+{
+	width:120px;
+}
+
+.lblError
+{
+	width:10em;
+	color:Red;
+}
+ul#UlCompanyInformation 
+{
+	width:730px;
+}
+
+ul#UlCompanyInformation li
+{
+	clear:both;
+	width:730px;
+	padding-bottom:5px;
+}
+
+.calendarImg
+{
+	width:14px;
+	background-image: url("/App_Themes/Images/calendar.gif");
+	 background-repeat:no-repeat;
+	 z-index:  2000;
+}
+
+ ul.megamenu {
+
+margin: 0;
+padding: 0.3em 0em;
+
+}
+
+
+ul.megamenu li {
+display: inline;
+margin: 0.1em 1em;
+position: relative;
+
+}
+
+ul.megamenu h2, li.menu div h3 {
+font-size: 100%;
+font-weight: normal;
+display: inline;
+
+}
+
+
+ul.megamenu li a {
+color: #fff;
+text-decoration: none;
+padding: 0 0.4em;
+
+}
+
+ul.megamenu li a:hover {
+text-decoration: underline;
+background: none repeat scroll 0 0 #D9FB07;
+
+}
+
+
+ul.megamenu li.menu a {
+background: transparent; 
+padding: 0 1.2em;
+margin-left :0px;
+}
+
+ul.megamenu li.menu a:hover {
+text-decoration: underline;
+}
+
+ul.megamenu div {
+display: none;
+}
+
+ul.megamenu li.menu div {
+border: 1px solid Grey;
+width: 3.1em; 
+position: absolute;
+top: 2.5em;
+left: 0em;
+padding: 1.3em;
+background: #ffffff;
+z-index:1000;
+}
+
+ul.megamenu li.hovering div {
+display: block; 
+width : inherit; 
+z-index:1000;
+background:#F0F8FF;
+}
+
+ul.megamenu li.menu div a {
+/*color: #300; */
+color: #300;
+padding: 0;
+background-image: none;
+
+}
+
+ul.megamenu li.menu div a.more {
+color: #390;
+font-weight: bold;
+
+}
+
+
+ul.megamenu div h3 {
+color: #f70;
+font-weight: bold;
+font-size: 1.1em;
+}
+
+ul.megamenu div p {
+margin: 0 0 0.8em 0;
+padding: 0;
+}
+
+ul.megamenu li.menu div ul.submenu
+{
+	text-align:left;
+	float:left;
+	margin:0px;
+	padding:0px;
+
+	
+}
+
+ul.megamenu li.menu div ul.submenu li.submenu a:hover
+{
+	text-align:left;
+	float:left;
+	margin:0px;
+	/*padding:0 2 0 0px;*/
+	padding-bottom: 0.6em;
+	
+	
+	
+	
+}
+
+
+
+ul.megamenu li.menu div ul.submenu li:hover
+{
+	
+	 background-image:url("/App_Themes/Images/zonebar-navleft.png");
+	
+}
+
+#div_zonebar
+{
+	background: none repeat scroll 0 0  #F0F8FF;
+	border-bottom-color : white;
+	font-size :small ;
+	border : white;
+    min-height: 150px;
+    /*padding: 5px 10px 0; */
+    text-decoration:inherit;
+    margin-top :0.5em;
+    position:absolute;
+    z-index:2000;
+    
+}
+.drpdown
+{
+       
+    font-family  : Verdana;
+    Font-Size :  x-small;
+    
+    }
+    
+    .accordionHeader {  
+            border: 1px solid #2F4F4F;  
+            color: white;  
+            background-color: #2E4d7B;  
+           /* background-image: url("/App_Themes/Images/plus.jpg");*/
+            font-family: Arial, Sans-Serif;  
+            font-size: 12px;  
+            font-weight: bold;  
+            padding: 5px;  
+            margin-top: 5px;  
+            cursor: pointer;  
+            z-index:10;
+        }  
+          
+        .accordionHeaderSelected {  
+            border: 1px solid #2F4F4F;  
+            color: white;  
+            background-color: #5078B3;  
+           /*    background-image: url("/App_Themes/Images/minus.jpg");*/
+            font-family: Arial, Sans-Serif;  
+            font-size: 12px;  
+            font-weight: bold;  
+            padding: 5px;  
+            margin-top: 5px;  
+            cursor: pointer;  
+            z-index:10;
+        }  
+          
+        .accordionContent {  
+            background-color: #FFFFFF;  
+            border: 1px dashed #2F4F4F;  
+            border-top: none;  
+            padding: 5px;  
+            padding-top: 10px;  
+            z-index:10; 
+
+        }  
+
+
+.mandatory
+{
+	color:Red;
+}
+
+ .rnd1 {
+   background-color: #6699cc;
+   border:0px none;
+   padding:2px 2px 2px 2px;
+   
+ }
+
+.gv1 {
+   width: 100%;
+   border: 0px none;
+   border-collapse: collapse;
+ }
+        
+.GridHeader
+{
+    background-color:#F9A42D;
+    height:25px;
+    font-family:Verdana;
+     font-size:11px;
+     color:#160E02;
+     border-right: 1px solid #452902;
+}
+
+.GridRow
+{
+ border-right:1px solid #625F51;
+ border-bottom-width:1px;
+ border-top: 1px solid #625F51;
+ border-color:#625F51;
+ font-family:Verdana;
+ font-size:11px;
+ font-weight:normal;
+}
+
+.ajax__calendar_container { z-index : 1000 ; }
+        
+.ajax__calendar {
+    /*position: relative;*/
+    /*left: 0px !important;*/
+   /* top: 0px !important;*/
+    visibility: visible; display: block;
+    z-index:1000;
+}
+
+.ajax__calendar_body
+{
+    z-index:1000;
+}
+
+.diverror
+{
+  padding-top:15px;
+  font-size:smaller;  
+   
+}
+
+tr
+{
+    border-bottom:2em;
+    padding-bottom:1em;
+}
+
+.lblshort
+{
+	display:inline-block;
+	width:100px;
+	/*padding: 0em,1em,1em,0.5em;*/
+	color:#555555;
+	float:left;
+	
+}
+
+.mandatoryshort
+{
+    color:Red;
+}
+    

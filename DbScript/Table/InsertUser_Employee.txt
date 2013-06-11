@@ -1,0 +1,8 @@
+insert into tblEmployeeMaster(EmployeeId, FirstName  , MiddleInitial, LastName)
+values ('123', 'Dilip', 'C', 'Sharma')
+
+insert into tblEmployeeMaster(EmployeeId, FirstName  , MiddleInitial, LastName)
+values ('12', 'Deepak', 'R', 'Verma' )
+
+insert into tblEmployeeMaster(EmployeeId, FirstName  , MiddleInitial, LastName)
+values ('1234', 'Dinesh', 'R', 'Kerma' )
